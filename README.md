@@ -4,3 +4,5 @@ This GUI has the capacity to connect to and control Sphero robots. It is coded a
 controller_GUI is the code.
 
 my_GUI is a preview image of the GUI once it is ran
+
+controller is the .mlapp file for the GUI
