@@ -3,4 +3,4 @@ This GUI has the capacity to connect to and control Sphero robots. It is coded a
 
 controller_GUI is the code.
 
-preview is a preview image of the GUI once it is ran
+my_GUI is a preview image of the GUI once it is ran
